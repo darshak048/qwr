@@ -18,7 +18,7 @@
         "fb_nativeid": "1703312420239240_1703313613572454..",
         "fb_nativebannerid": "1703312420239240_1703313733572442..",
         "fb_interid": "1703312420239240_1703313516905797..",
-        "AdsType": "custom",
+        "AdsType": "none",
         "nativecount": "1",
         "smallnativecount": "1",
         "inter_count": "2",
