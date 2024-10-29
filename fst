@@ -8,7 +8,7 @@
         "app_adShowStatus": "1",
         "app_mainClickCntSwAd": "0",
         "app_innerClickCntSwAd": "0",
-        "app_AppOpenAdStatus": "0",
+        "app_AppOpenAdStatus": "1",
         "admob_appopenid": "/21902364955,22960235180/CM_EB_Set_Hello_Tune_Wallpapers_Inapp_Ringtone_Top/CM_EB_Set_Hello_Tune_Wallpapers_Inapp_Ringtone_Appopen..",
         "admob_interid": "/21902364955,22960235180/CM_EB_Set_Hello_Tune_Wallpapers_Inapp_Ringtone_Top/CM_EB_Set_Hello_Tune_Wallpapers_Inapp_Ringtone_Interstitial..",
         "admob_nativeid": "/21902364955,22960235180/CM_EB_Set_Hello_Tune_Wallpapers_Inapp_Ringtone_Top/CM_EB_Set_Hello_Tune_Wallpapers_Inapp_Ringtone_Native_1..",
