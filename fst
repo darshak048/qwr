@@ -16,7 +16,7 @@
         "admob_nativeid": "Native_1..",
         "admob_nativebannerid": "Native_1..",
         "admob_bannerid": "Banner..",
-        "fb_bannerid": "18..",
+        "fb_bannerid": "8..",
         "fb_nativeid": "4..",
         "fb_nativebannerid": "2..",
         "fb_interid": "7..",
