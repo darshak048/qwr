@@ -2,8 +2,8 @@
     "APP_SETTINGS": {
         "app_accountLink": "s",
         "app_privacyPolicyLink": "https://www.google.com/",
-        "app_ShareLink": "https://www.google.com/",
-        "app_RateLink": "https://www.google.com/",
+        "app_sharelink": "https://www.google.com/",
+        "app_ratelink": "https://www.google.com/",
         "app_updateAppDialogStatus": "0",
         "app_redirectOtherAppStatus": "0",
         "app_dialogBeforeAdShow": "0",
