@@ -15,7 +15,7 @@
         "admob_interid": "adInterstitial5454..",
         "admob_nativeid": "adNative_158484..",
         "admob_nativebannerid": "adNative_156465..",
-        "admob_bannerid": "adBanner44..",
+        "admob_bannerid": "adBanne..",
         "fb_bannerid": "fbbanner4874..",
         "fb_nativeid": "fbnative65654..",
         "fb_nativebannerid": "fbnativebannar..",
