@@ -1,9 +1,9 @@
 {
     "APP_SETTINGS": {
         "app_accountLink": "s",
-        "app_privacyPolicyLink": "https://www.google.com/",
-        "app_shareLink": "https://www.google.com/",
-        "app_rateLink": "https://www.google.com/",
+        "app_privacyPolicyLink": "",
+        "app_shareLink": "",
+        "app_rateLink": "",
         "app_updateAppDialogStatus": "0",
         "app_redirectOtherAppStatus": "0",
         "app_dialogBeforeAdShow": "0",
@@ -28,7 +28,7 @@
         "sccount": "0",
         "exit_flag": false,
         "Maintenance": "s",
-        "mktonf": "0",
+        "mktonf": "1",
         "CustomNative": "1",
         "animation_btn": false,
         "NativeAd_Btn_color": "#000000",
