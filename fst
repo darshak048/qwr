@@ -19,7 +19,7 @@
         "fb_bannerid": "8..",
         "fb_nativeid": "4..",
         "fb_nativebannerid": "2..",
-        "fb_interid": "7..",
+        "fb_interid": "7...",
         "AdsType": "none",
         "nativecount": "1",
         "smallnativecount": "1",
